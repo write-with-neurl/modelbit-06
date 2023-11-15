@@ -1,0 +1,11 @@
+_: MBFileStub
+contentHash: sha1:7574125a2ae8baffcc55602b3cfca212ef7a1bc2
+createdAt: 2023-11-15 07:33:15
+metadata:
+  fileSize: 828
+  object:
+    class: LogisticRegression
+    description: LogisticRegression()
+    module: sklearn.linear_model._logistic
+    package: scikit-learn==1.2.2
+schemaVersion: 1

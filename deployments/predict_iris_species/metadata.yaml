@@ -1,0 +1,10 @@
+owner: abozejohn@gmail.com
+runtimeInfo:
+  mainFunction: predict_iris_species
+  mainFunctionArgs:
+    - sepal_length:Any
+    - sepal_width:Any
+    - petal_length:Any
+    - petal_width:Any
+  pythonVersion: '3.10'
+schemaVersion: 2
